@@ -1,4 +1,4 @@
-<h2 align="left">Heyo! I'm Rohit, a weeb from India</h2>
+<h2 align="left">Heyo! I'm Rohit, a cs student from India</h2>
 
 ###
 
