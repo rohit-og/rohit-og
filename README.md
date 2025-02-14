@@ -1,16 +1,12 @@
-<h2 align="left">Heyo! I'm Rohit, a CS student from India</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit-og&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h2 align="center">Heyo! I'm Rohit, a CS student from India</h2>
 
 ###
 
 ###
 
-<div align="left">
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -27,7 +23,7 @@
 </div>
 
 <br>
-<p align="left">
+<p align="center">
     <samp>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=81A2BD&center=false&width=410&height=45&lines=i+like+to+code+and+play+games.">
       <br>
