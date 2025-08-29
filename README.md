@@ -1,48 +1,61 @@
-<h2 align="center">Heyo! I'm Rohit, a CS student from India</h2>
-
-###
-
-###
-
-###
+# RohiT
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+
+
+```
+                    ゜。       ゜・。゜゜. .
+                     。        .    ゜
+               o . * ・            ゜゜
+           * ゜  .  .  ゜  。  ・
+         。    ・  .      . *  ゜
+        ゜ ゜ ・   * 。 ・    ゜
+          ゜      ・ .  ゜  *
+                 .   ゜  ・
+                      ゜
+           ～ 道は歩くことで作られる ～
+           "The path is made by walking"
+```
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=435&lines=~+開発者+Developer+~;~+学習者+Learner+~;~+クリエイター+Creator+~" alt="Typing SVG" />
 </div>
 
-<br>
-<p align="center">
-    <samp>
-        <image align="center" src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=81A2BD&center=false&width=410&height=45&lines=i+like+to+code+and+play+games.">
-      <br>
-      <b>
-        ~ Rohit Sharma ~
-      </b>
-    </samp>
-  </p>
-<br>
-<details>
-<summary><samp><b>More Info</b></samp></summary>
 
-<h2></h2><br>
 
-<p align="center">
-  <samp>  
-    You can reach me at [<a href="mailto:sharmarohit12004@gmail.com">e-mail</a>]
-  </samp>
-</p>
+---
 
-<h2></h2><br>
+## About
 
+Building digital experiences with care and precision.  
+Embracing **改善** *(kaizen)* - continuous improvement in code and craft.
+
+**Contact:** [sharmarohit12004@gmail.com](mailto:sharmarohit12004@gmail.com)
+
+---
+
+## Stack
+
+**Languages:** JavaScript • Python • TypeScript • PHP  
+**Frontend:** React • Next.js • HTML/CSS  
+**Backend:** Node.js • Express • Laravel • Django  
+**Tools:** Git • VS Code • Docker • Postman  
+
+
+---
+
+## Philosophy
+
+> **一期一会** *(ichigo ichie)*  
+> One time, one meeting.  
+> Every interaction in code is unique and meaningful.
+
+---
+
+<div align="center">
+
+**ありがとう** • *Thank you for visiting*
+
+<img src="https://komarev.com/ghpvc/?username=rohit-og&style=flat&color=lightgrey" alt="views"/>
+
+</div>
