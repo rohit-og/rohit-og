@@ -17,10 +17,6 @@
            "The path is made by walking"
 ```
 </div>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=435&lines=~+開発者+Developer+~;~+学習者+Learner+~;~+クリエイター+Creator+~" alt="Typing SVG" />
-</div>
-
 
 
 ---
