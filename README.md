@@ -31,10 +31,15 @@ Embracing **改善** *(kaizen)* - continuous improvement in code and craft.
 
 ## Stack
 
-**Languages:** JavaScript • Python • TypeScript • PHP  
-**Frontend:** React • Next.js • HTML/CSS  
+**Languages:** JavaScript • TypeScript • Python • PHP  
+
+**Frontend:** React • Next.js • HTML • CSS  
+
 **Backend:** Node.js • Express • Laravel • Django  
-**Tools:** Git • VS Code • Docker • Postman  
+
+**Databases:** MySQL • PostgreSQL • Redis  
+
+**Tools & Platforms:** Git • GitHub • Docker • Linux • Azure • Postman • VS Code   
 
 
 ---
