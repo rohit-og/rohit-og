@@ -25,7 +25,7 @@
 Building digital experiences with care and precision.  
 Embracing **改善** *(kaizen)* - continuous improvement in code and craft.
 
-**Contact:** [sharmarohit12004@gmail.com](mailto:sharmarohit12004@gmail.com)
+**Contact:** [rohitog.dev@gmail.com](mailto:rohitog.dev@gmail.com)
 
 ---
 
