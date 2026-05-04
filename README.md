@@ -43,19 +43,3 @@ Embracing **改善** *(kaizen)* - continuous improvement in code and craft.
 
 
 ---
-
-## Philosophy
-
-> **一期一会** *(ichigo ichie)*  
-> One time, one meeting.  
-> Every interaction in code is unique and meaningful.
-
----
-
-<div align="center">
-
-**ありがとう** • *Thank you for visiting*
-
-<img src="https://komarev.com/ghpvc/?username=rohit-og&style=flat&color=lightgrey" alt="views"/>
-
-</div>
